@@ -1,4 +1,4 @@
 mi primer commit
 probando commit -am
-subir al repositorio
+subir positorio
 se creo un endpoint
